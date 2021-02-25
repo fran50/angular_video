@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular014video"
+    }
+  },
+  "defaultProject": "angular014video",
+  "cli": {
+    "analytics": false
+  }
 }
